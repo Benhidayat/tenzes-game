@@ -7,4 +7,6 @@
     font-size: 1.25rem;
     font-weight: 700;
     line-height: 24.07px;
+    border-radius: 10px;
+    cursor: pointer;
 }
