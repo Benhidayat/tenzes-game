@@ -1,0 +1,10 @@
+.die-item {
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 2px 2px 0 #00000026;
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 24.07px;
+}
