@@ -1,5 +1,4 @@
 .die-item {
-    background-color: #fff;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -9,4 +8,5 @@
     line-height: 24.07px;
     border-radius: 10px;
     cursor: pointer;
+    border: none;
 }
